@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\19515\\Desktop\\Coding Projects\\Visual Studio_C\u002B\u002B\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6EA2E8-91F6-49D5-A11A-FCA304978B0A}|DFS_Topological_Sort_Project.vcxproj|C:\\Users\\19515\\Desktop\\Coding Projects\\Visual Studio_C\u002B\u002B\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A6EA2E8-91F6-49D5-A11A-FCA304978B0A}|DFS_Topological_Sort_Project.vcxproj|solutionrelative:DFS_Topological_Sort_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DFS_Topological_Sort_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\19515\\Desktop\\Coding Projects\\Visual Studio_C\u002B\u002B\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project.cpp",
+              "RelativeDocumentMoniker": "DFS_Topological_Sort_Project.cpp",
+              "ToolTip": "C:\\Users\\19515\\Desktop\\Coding Projects\\Visual Studio_C\u002B\u002B\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project.cpp",
+              "RelativeToolTip": "DFS_Topological_Sort_Project.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T04:10:05.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
