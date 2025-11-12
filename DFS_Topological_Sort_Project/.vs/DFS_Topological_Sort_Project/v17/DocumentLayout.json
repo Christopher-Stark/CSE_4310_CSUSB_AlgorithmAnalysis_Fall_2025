@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\19515\\Desktop\\Coding Projects\\Visual Studio_C\u002B\u002B\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\19515\\Desktop\\Coding Projects\\GitHub_Repos\\CSE_4310_CSUSB_AlgorithmAnalysis_Fall_2025\\DFS_Topological_Sort_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19515\\Desktop\\Coding Projects\\GitHub_Repos\\CSE_4310_CSUSB_AlgorithmAnalysis_Fall_2025\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DFS_Topological_Sort_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DFS_Topological_Sort_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\19515\\Desktop\\Coding Projects\\GitHub_Repos\\CSE_4310_CSUSB_AlgorithmAnalysis_Fall_2025\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project.cpp",
+              "RelativeDocumentMoniker": "DFS_Topological_Sort_Project.cpp",
+              "ToolTip": "C:\\Users\\19515\\Desktop\\Coding Projects\\GitHub_Repos\\CSE_4310_CSUSB_AlgorithmAnalysis_Fall_2025\\DFS_Topological_Sort_Project\\DFS_Topological_Sort_Project.cpp",
+              "RelativeToolTip": "DFS_Topological_Sort_Project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-12T23:01:30.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
